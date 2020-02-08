@@ -113,5 +113,5 @@ This specialisation contains five courses which can be taken on [Coursera](https
 - [Operations on word vectors](/NLP_Sequential_Models/Word%20Vector%20Representation/Operations_on_word_vectors.ipynb)
 
 ## Acknowledgements
-Thank you instructor [Andrew Ng](http://www.andrewng.org/) for teaching this course.  
-Thanks [mbadry1](https://github.com/mbadry1) for his notes for me to add more of mine onto it.  
+- Thanks [Andrew Ng](http://www.andrewng.org/) for teaching this course.  
+- Thanks [mbadry1](https://github.com/mbadry1) for his notes for me to add more of mine onto it.  
